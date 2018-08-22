@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TextEditor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TextEditor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
